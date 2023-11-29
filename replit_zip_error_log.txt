@@ -1,8 +1,0 @@
-{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file .cache/replit/modules/python-3.8:v11-20231125-92f4109","time":"2023-11-29T21:45:05Z"}
-{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file .pythonlibs/bin/bottle.py","time":"2023-11-29T21:45:05Z"}
-{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file .pythonlibs/lib/python3.8/site-packages/bottle-0.12.25.dist-info/AUTHORS","time":"2023-11-29T21:45:05Z"}
-{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file .pythonlibs/lib/python3.8/site-packages/bottle-0.12.25.dist-info/LICENSE","time":"2023-11-29T21:45:05Z"}
-{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file .pythonlibs/lib/python3.8/site-packages/bottle-0.12.25.dist-info/METADATA","time":"2023-11-29T21:45:05Z"}
-{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file .pythonlibs/lib/python3.8/site-packages/bottle-0.12.25.dist-info/WHEEL","time":"2023-11-29T21:45:05Z"}
-{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file .pythonlibs/lib/python3.8/site-packages/bottle-0.12.25.dist-info/top_level.txt","time":"2023-11-29T21:45:05Z"}
-{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file .pythonlibs/lib/python3.8/site-packages/bottle.py","time":"2023-11-29T21:45:05Z"}
